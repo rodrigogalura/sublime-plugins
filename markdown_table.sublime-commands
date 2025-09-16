@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Markdown Table: Generate (with Alignment Options)",
+        "command": "generate_markdown_table"
+    },
+    {
+        "caption": "Markdown Table: Quick Generate (Left Aligned)",
+        "command": "quick_generate_table"
+    }
+]
